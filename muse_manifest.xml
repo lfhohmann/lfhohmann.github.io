@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lucas.alpha.education" resolutions="1x" timestamp="1624620345627">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lucas.alpha.education" resolutions="1x" timestamp="1624620979502">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="146827914" ref="phone>index"/>
-      <file name="index.css" crc="224704030" ref="phone>index"/>
+      <file name="index.css" crc="3953653887" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4015679572" seo="true" mt="1624620329758" redirect="true"/>
+    <file name="index.html" crc="203427851" seo="true" mt="1624620969829" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3953451569" ref="index"/>
-    <file name="index.css" crc="4199820381" ref="index"/>
+    <file name="index.css" crc="3944650182" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
@@ -26,5 +26,5 @@
     </file>
     <file name="u108-4.png" crc="4100115868" ref="index"/>
   </folder>
-  <file name="index.html" crc="374193201" seo="true" mt="1624620337927" redirect="true"/>
+  <file name="index.html" crc="3926644078" seo="true" mt="1624620702288" redirect="true"/>
 </manifest>
