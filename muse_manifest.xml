@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lucas.alpha.education" resolutions="1x" timestamp="1624619381545">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lucas.alpha.education" resolutions="1x" timestamp="1624620130300">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="76380666" ref="index"/>
-    <file name="index.css" crc="4282020888" ref="index"/>
+    <file name="master_a-master.css" crc="4043161231" ref="index"/>
+    <file name="index.css" crc="4278647222" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -14,10 +14,10 @@
     <file name="require.js" crc="4177726516" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="alpha.jpg" crc="3765769789" ref="index">
+    <file name="alpha.jpg" crc="4260038849" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u108-4.png" crc="4100115868" ref="index"/>
   </folder>
-  <file name="index.html" crc="3768583117" seo="true" mt="1624619380922" redirect="true"/>
+  <file name="index.html" crc="22415851" seo="true" mt="1624620129853" redirect="true"/>
 </manifest>
