@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://lucas.alpha.education/index.html</loc>
-    <lastmod>2021-06-25</lastmod>
+    <loc>http://lfhohmann.github.io/index.html</loc>
+    <lastmod>2021-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://lucas.alpha.education/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://lfhohmann.github.io/phone/index.html"/>
+  </url>
+  <url>
+    <loc>http://lfhohmann.github.io/phone/certifications.html</loc>
+    <lastmod>2021-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://lfhohmann.github.io/phone/volunteer.html</loc>
+    <lastmod>2021-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

@@ -1,30 +1,215 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lucas.alpha.education" resolutions="1x" timestamp="1624620979502">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lfhohmann.github.io" resolutions="1x" timestamp="1624884408420">
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="146827914" ref="phone>index"/>
-      <file name="index.css" crc="3953653887" ref="phone>index"/>
+      <file name="index.css" crc="3847532554" ref="phone>index"/>
+      <file name="certifications.css" crc="4188412658" ref="phone>certifications"/>
+      <file name="volunteer.css" crc="110757877" ref="phone>volunteer"/>
     </folder>
-    <file name="index.html" crc="203427851" seo="true" mt="1624620969829" redirect="true"/>
+    <file name="index.html" crc="4277759587" seo="true" mt="1624884405504" redirect="true"/>
+    <file name="certifications.html" crc="158644397" seo="true" mt="1624884371276" redirect="true"/>
+    <file name="volunteer.html" crc="3910132267" seo="true" mt="1624883519178" redirect="false"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3953451569" ref="index"/>
-    <file name="index.css" crc="3944650182" ref="index"/>
+    <file name="index.css" crc="122749095" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
-    <file name="museutils.js" crc="3939489907" ref="index:phone>index"/>
-    <file name="whatinput.js" crc="86476730" ref="index:phone>index"/>
-    <file name="museconfig.js" crc="3936894949" ref="index:phone>index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:phone>index"/>
-    <file name="require.js" crc="4177726516" ref="index:phone>index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index:phone>certifications:phone>volunteer"/>
+    <file name="museutils.js" crc="3939489907" ref="index:phone>index:phone>certifications:phone>volunteer"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index:phone>certifications:phone>volunteer"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:phone>index:phone>certifications:phone>volunteer"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>certifications:phone>volunteer:index"/>
+    <file name="require.js" crc="4177726516" ref="index:phone>index:phone>certifications:phone>volunteer"/>
+    <file name="webpro.js" crc="3856315280" ref="phone>certifications"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="phone>certifications"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="phone>certifications"/>
+    <file name="touchswipe.js" crc="3888935200" ref="phone>certifications"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="phone>index"/>
   </folder>
   <folder name="images">
-    <file name="alpha.jpg" crc="4260038849" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="phone>certifications"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>certifications"/>
+    <file name="alpha.jpg" crc="4166042029" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u108-4.png" crc="4100115868" ref="index"/>
+    <file name="left-arrow-back-svgrepo-com_white.svg" crc="158221255" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="left-arrow-back-svgrepo-com_white_poster_.png" crc="4037780165" ref="phone>certifications"/>
+    <file name="coursera-google_data_analytics.jpg" crc="3889722794" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_data_analytics-2.jpg" crc="3956200286" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_data_analytics-3.jpg" crc="4239692425" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_data_analytics-4.jpg" crc="332969358" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_data_analytics-5.jpg" crc="4175122767" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_data_analytics-6.jpg" crc="366702958" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_data_analytics-7.jpg" crc="177845730" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_data_analytics-8.jpg" crc="4073158346" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_data_analytics-9.jpg" crc="4031038872" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_it_automation_with_python-1.jpg" crc="4283037249" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_it_automation_with_python-2.jpg" crc="4026116287" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_it_automation_with_python-3.jpg" crc="156133648" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_it_automation_with_python-4.jpg" crc="4211786822" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_it_automation_with_python-5.jpg" crc="4107618220" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_it_automation_with_python-6.jpg" crc="405893776" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-ibm_data_science-6.jpg" crc="3811656124" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-ibm_data_science-8.jpg" crc="19090041" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="digital_inovation_one-etl_fundamentals.png" crc="4110317632" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="digital_inovation_one-git_and_github.png" crc="3958416541" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="digital_inovation_one-linux.png" crc="3825217587" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="digital_inovation_one-shell_script.png" crc="4275301022" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="freecodecamp-data_analysis_with_python.jpg" crc="328418266" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="freecodecamp-scientific_computing_with_python.png" crc="4180531002" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="sololearn-intermediate_python.png" crc="80862438" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="sololearn-python_core.png" crc="3778657313" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="sololearn-python_data_structures.png" crc="427251508" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="sololearn-python_for_beginners.png" crc="164819716" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="sololearn-python_for_data_science.png" crc="3880037567" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="sololearn-sql.png" crc="4143605667" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_data_analytics93x72.jpg" crc="264676183" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_data_analytics-893x72.jpg" crc="4064369511" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_it_automation_with_python-693x72.jpg" crc="4124792627" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="freecodecamp-data_analysis_with_python93x72.jpg" crc="4047772593" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="sololearn-sql98x69.png" crc="4005941300" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_data_analytics-293x72.jpg" crc="449917614" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_data_analytics-993x72.jpg" crc="75618724" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-ibm_data_science-693x72.jpg" crc="4181405385" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="freecodecamp-scientific_computing_with_python93x72.png" crc="28574930" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_data_analytics-393x72.jpg" crc="206888633" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_it_automation_with_python-193x72.jpg" crc="272080744" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-ibm_data_science-8-crop-u794.jpg" crc="3935353654" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="sololearn-intermediate_python98x69.png" crc="4274083433" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_data_analytics-493x72.jpg" crc="209660609" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_it_automation_with_python-293x72.jpg" crc="109518758" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="digital_inovation_one-etl_fundamentals98x69.png" crc="4116467932" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="sololearn-python_core98x69.png" crc="401786793" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_data_analytics-593x72.jpg" crc="4166946440" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_it_automation_with_python-393x72.jpg" crc="4085299952" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="digital_inovation_one-git_and_github98x69.png" crc="354675212" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="sololearn-python_data_structures98x69.png" crc="439865360" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_data_analytics-693x72.jpg" crc="4205408932" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_it_automation_with_python-493x72.jpg" crc="4270568287" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="digital_inovation_one-linux98x69.png" crc="415113722" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="sololearn-python_for_beginners98x69.png" crc="3816131009" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_data_analytics-793x72.jpg" crc="4000143268" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="coursera-google_it_automation_with_python-593x72.jpg" crc="4107784162" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="digital_inovation_one-shell_script98x69.png" crc="215897922" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
+    <file name="sololearn-python_for_data_science98x69.png" crc="4265047744" seo="true" ref="phone>certifications">
+      <caption webpage="certifications" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3926644078" seo="true" mt="1624620702288" redirect="true"/>
+  <file name="index.html" crc="4255418930" seo="true" mt="1624881383361" redirect="false"/>
 </manifest>
