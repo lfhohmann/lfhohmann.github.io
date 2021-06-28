@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lfhohmann.github.io" resolutions="1x" timestamp="1624884408420">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lfhohmann.github.io" resolutions="1x" timestamp="1624884621372">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="3847532554" ref="phone>index"/>
@@ -6,7 +6,7 @@
       <file name="volunteer.css" crc="110757877" ref="phone>volunteer"/>
     </folder>
     <file name="index.html" crc="4277759587" seo="true" mt="1624884405504" redirect="true"/>
-    <file name="certifications.html" crc="158644397" seo="true" mt="1624884371276" redirect="true"/>
+    <file name="certifications.html" crc="4205642928" seo="true" mt="1624884581929" redirect="true"/>
     <file name="volunteer.html" crc="3910132267" seo="true" mt="1624883519178" redirect="false"/>
   </folder>
   <folder name="css">
