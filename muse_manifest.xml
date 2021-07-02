@@ -1,10 +1,11 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lfhohmann.github.io" resolutions="1x" timestamp="1625245074075">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lfhohmann.github.io" resolutions="1x" timestamp="1625245359720">
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="101218963" ref="tablet>index"/>
+      <file name="index.css" crc="279136211" ref="tablet>index"/>
       <file name="certifications-pt.css" crc="4153884038" ref="tablet>certifications-pt"/>
+      <file name="nomq_index.css" crc="4290353399" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="3937435692" seo="true" mt="1625245064170" redirect="true"/>
+    <file name="index.html" crc="389262880" seo="true" mt="1625245350502" redirect="true"/>
     <file name="certifications-pt.html" crc="3861890029" seo="true" mt="1625244535127" redirect="true"/>
   </folder>
   <folder name="css">
@@ -19,15 +20,19 @@
     <file name="jquery.watch.js" crc="522499760" ref="tablet>index:index:tablet>certifications-pt"/>
     <file name="require.js" crc="4177726516" ref="index:tablet>index:tablet>certifications-pt"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="tablet>index"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="tablet>index"/>
   </folder>
   <folder name="images">
     <file name="alpha.jpg" crc="4124981863" ref="tablet>index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="brazil.png" crc="4103944860" seo="true" ref="tablet>index:tablet>certifications-pt">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="certifications-pt" alt=""/>
     </file>
+    <file name="blank.gif" crc="4208392903" ref="tablet>index"/>
   </folder>
   <file name="index.html" crc="3819955845" seo="true" mt="1624906669714" redirect="false"/>
 </manifest>

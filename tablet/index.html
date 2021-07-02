@@ -11,41 +11,60 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "require.js", "index.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "jquery.museresponsive.js", "require.js", "index.css"], "outOfDate":[]};
 </script>
   
   <link rel="canonical" href="http://lfhohmann.github.io/index.html"/>
   <title>Home</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="../css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=101218963" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=279136211" id="pagesheet"/>
+  <!-- IE-only CSS -->
+  <!--[if lt IE 9]>
+  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=4290353399" id="nomq_pagesheet"/>
+  <![endif]-->
    </head>
  <body>
 
-  <div class="clearfix borderbox" id="page"><!-- column -->
-   <div class="clearfix colelem" id="pu133"><!-- group -->
-    <div class="museBGSize rounded-corners grpelem" id="u133" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- simple frame --></div>
-    <div class="clip_frame grpelem" id="u236" data-sizePolicy="fixed" data-pintopage="page_fixedRight"><!-- image -->
-     <img class="block" id="u236_img" src="../images/brazil.png?crc=4103944860" alt="" width="80" height="80"/>
+  <div class="breakpoint active" id="bp_infinity" data-min-width="501"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox" id="page"><!-- column -->
+    <div class="clearfix colelem" id="pu133"><!-- group -->
+     <div class="museBGSize rounded-corners grpelem shared_content" id="u133" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-content-guid="u133_content"><!-- simple frame --></div>
+     <div class="clip_frame grpelem" id="u236" data-sizePolicy="fixed" data-pintopage="page_fixedRight"><!-- image -->
+      <img class="block temp_no_img_src" id="u236_img" data-orig-src="../images/brazil.png?crc=4103944860" alt="" width="80" height="80" src="../images/blank.gif?crc=4208392903"/>
+     </div>
     </div>
-   </div>
-   <div class="browser_width colelem" id="u152-4-bw">
-    <div class="clearfix" id="u152-4"><!-- content -->
-     <p>Lucas Hohmann</p>
+    <div class="browser_width colelem shared_content" id="u152-4-bw" data-content-guid="u152-4-bw_content">
+     <div class="clearfix" id="u152-4"><!-- content -->
+      <p>Lucas Hohmann</p>
+     </div>
     </div>
-   </div>
-   <div class="browser_width colelem" id="u246-4-bw">
-    <div class="clearfix" id="u246-4"><!-- content -->
-     <p>Desenvolvedor e Professor de Lógica de Programação/Robótica</p>
+    <div class="browser_width colelem shared_content" id="u246-4-bw" data-content-guid="u246-4-bw_content">
+     <div class="clearfix" id="u246-4"><!-- content -->
+      <p>Desenvolvedor e Professor de Lógica de Programação/Robótica</p>
+     </div>
     </div>
-   </div>
-   <a class="nonblock nontext Button rounded-corners clearfix colelem" id="buttonu162" href="http://linkedin.com/in/lfhohmann" data-visibility="changed" style="visibility:hidden" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- container box --><div class="clearfix grpelem" id="u163-4"><!-- content --><p>Linkedin</p></div></a>
-   <div class="Button rounded-corners clearfix colelem" id="buttonu249" data-visibility="changed" style="visibility:hidden" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- container box -->
-    <div class="clearfix grpelem" id="u250-4"><!-- content -->
-     <p>Certificações</p>
+    <a class="nonblock nontext Button rounded-corners clearfix colelem shared_content" id="buttonu162" href="http://linkedin.com/in/lfhohmann" data-visibility="changed" style="visibility:hidden" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter" data-content-guid="buttonu162_content"><!-- container box --><div class="clearfix grpelem" id="u163-4"><!-- content --><p>Linkedin</p></div></a>
+    <div class="Button rounded-corners clearfix colelem shared_content" id="buttonu249" data-visibility="changed" style="visibility:hidden" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter" data-content-guid="buttonu249_content"><!-- container box -->
+     <div class="clearfix grpelem" id="u250-4"><!-- content -->
+      <p>Certificações</p>
+     </div>
     </div>
+    <div class="verticalspacer" data-offset-top="621" data-content-above-spacer="592" data-content-below-spacer="432" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
    </div>
-   <div class="verticalspacer" data-offset-top="621" data-content-above-spacer="621" data-content-below-spacer="402" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+  </div>
+  <div class="breakpoint" id="bp_500" data-max-width="500"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- column -->
+    <div class="clip_frame colelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedRight" data-orig-id="u236"><!-- image -->
+     <img class="block temp_no_id temp_no_img_src" data-orig-src="../images/brazil.png?crc=4103944860" alt="" width="48" height="48" data-orig-id="u236_img" src="../images/blank.gif?crc=4208392903"/>
+    </div>
+    <span class="museBGSize rounded-corners colelem placeholder" data-placeholder-for="u133_content"><!-- placeholder node --></span>
+    <span class="browser_width colelem placeholder" data-placeholder-for="u152-4-bw_content"><!-- placeholder node --></span>
+    <span class="browser_width colelem placeholder" data-placeholder-for="u246-4-bw_content"><!-- placeholder node --></span>
+    <span class="nonblock nontext Button rounded-corners clearfix colelem placeholder" data-placeholder-for="buttonu162_content"><!-- placeholder node --></span>
+    <span class="Button rounded-corners clearfix colelem placeholder" data-placeholder-for="buttonu249_content"><!-- placeholder node --></span>
+    <div class="verticalspacer" data-offset-top="592" data-content-above-spacer="488" data-content-below-spacer="535" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   </div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -58,7 +77,7 @@ var suppressMissingFileError = false
 k[1]:null,k=k&&k[2]?k[2]:null;switch(k.toLowerCase()){case "css":i=i.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");g.className+=" "+i;i=a(d(g,"color"));k=a(d(g,"backgroundColor"));i!=0||k!=0?(Muse.assets.required.splice(j,1),"undefined"!=typeof b[l]&&(i!=b[l]>>>24||k!=(b[l]&16777215))&&Muse.assets.outOfDate.push(l)):j++;g.className="version";break;case "js":j++;break;default:throw Error("Unsupported file type: "+k);}}c?c().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 g.parentNode.removeChild(g);if(Muse.assets.outOfDate.length||Muse.assets.required.length)g="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",f&&Muse.assets.outOfDate.length&&(g+="\nOut of date: "+Muse.assets.outOfDate.join(",")),f&&Muse.assets.required.length&&(g+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(g+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(g)):alert(g)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){f(!0)},5E3):f()}};
-var muse_init=function(){require.config({baseUrl:"../"});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","jquery.watch"],function(c){var $ = c;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:"../"});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","jquery.watch","jquery.museresponsive"],function(c){var $ = c;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
@@ -66,7 +85,7 @@ Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
-Muse.Utils.showWidgetsWhenReady();/* body */
+$( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
 
