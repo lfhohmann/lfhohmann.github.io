@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lfhohmann.github.io" resolutions="1x" timestamp="1625244674280">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lfhohmann.github.io" resolutions="1x" timestamp="1625244918278">
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="4036679729" ref="tablet>index"/>
+      <file name="index.css" crc="3846872368" ref="tablet>index"/>
       <file name="certifications-pt.css" crc="4153884038" ref="tablet>certifications-pt"/>
     </folder>
-    <file name="index.html" crc="10361363" seo="true" mt="1625244474032" redirect="true"/>
+    <file name="index.html" crc="231870208" seo="true" mt="1625244852339" redirect="true"/>
     <file name="certifications-pt.html" crc="3861890029" seo="true" mt="1625244535127" redirect="true"/>
   </folder>
   <folder name="css">
