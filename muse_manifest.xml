@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lfhohmann.github.io" resolutions="1x" timestamp="1625245359720">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lfhohmann.github.io" resolutions="1x" timestamp="1625245478299">
   <folder name="tablet">
     <folder name="css">
       <file name="index.css" crc="279136211" ref="tablet>index"/>
