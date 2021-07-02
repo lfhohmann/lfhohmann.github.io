@@ -7,4 +7,10 @@
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://lfhohmann.github.io/tablet/index.html"/>
   </url>
+  <url>
+    <loc>http://lfhohmann.github.io/tablet/certifications-pt.html</loc>
+    <lastmod>2021-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
