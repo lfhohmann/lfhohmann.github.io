@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lfhohmann.github.io" resolutions="1x" timestamp="1625244918278">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lfhohmann.github.io" resolutions="1x" timestamp="1625245074075">
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="3846872368" ref="tablet>index"/>
+      <file name="index.css" crc="101218963" ref="tablet>index"/>
       <file name="certifications-pt.css" crc="4153884038" ref="tablet>certifications-pt"/>
     </folder>
-    <file name="index.html" crc="231870208" seo="true" mt="1625244852339" redirect="true"/>
+    <file name="index.html" crc="3937435692" seo="true" mt="1625245064170" redirect="true"/>
     <file name="certifications-pt.html" crc="3861890029" seo="true" mt="1625244535127" redirect="true"/>
   </folder>
   <folder name="css">
@@ -21,7 +21,7 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="tablet>index"/>
   </folder>
   <folder name="images">
-    <file name="alpha.jpg" crc="4209346316" ref="tablet>index">
+    <file name="alpha.jpg" crc="4124981863" ref="tablet>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="brazil.png" crc="4103944860" seo="true" ref="tablet>index:tablet>certifications-pt">
